@@ -7,28 +7,32 @@
 ## Stopword Removal
 
 ```
-
+inputList = ['automation','stemmer','a','brutus','thou','cleopatra','intelligent']
+filterTokens(inputList)
 ```
 
 ## Normalization - Stemming or Lemmatization
 Stemming
 ```
-
+inputList = ['automation','stemmer','a','brutus','thou','cleopatra','intelligent']
+stemming(inputList)
 ```
 Lemmatization
 ```
-
+inputList = ['automation','stemmer','a','brutus','thou','cleopatra','intelligent']
+lemmatize(inputList)
 ```
 
 ## Building Index 
 
 ```
-
+file_index = loadFileInfo(<parent Directory with dataset>)
+genWordDict(file_index)
 ```
 
 ## Querying
 ```
-
+search_and_retrieve(query)
 ```
 
 ## Documentation Generation
