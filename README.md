@@ -6,7 +6,7 @@ Run the following and add an input query -
 $ python main.py
 ```
 
-## Project Team - Team 36
+## Team
 
 - [Pavan Kumar Reddy Yannam](https://github.com/PavanReddy28/)
 - [BVS Ruthvik]()
