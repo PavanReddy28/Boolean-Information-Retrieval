@@ -1,6 +1,6 @@
 # IR-Assignment
 
-- (Notebook)[Final_Notebook.ipynb] - Final Notebook with all the code. RUN THE QUERIES IN THE NOTEBOOK.
+- [Notebook](Final_Notebook.ipynb) - Final Notebook with all the code. RUN THE QUERIES IN THE NOTEBOOK.
 - Documentation.py - Python File version of the Notebook.
 
 ## Stopword Removal
