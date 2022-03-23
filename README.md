@@ -1,6 +1,6 @@
 # IR-Assignment
 
-## Tunning Queries
+## Running Queries
 Run the following and add an input query - 
 ```
 $ python main.py
