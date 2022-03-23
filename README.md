@@ -1,7 +1,23 @@
 # IR-Assignment
 
-## Running Queries
-Run the following and add an input query - 
+## Stopword Removal
+
+```
+$ python stopWords.py
+```
+
+## Normalization - Stemming or Lemmatization
+```
+$ python normalize.py
+```
+
+## Building Index 
+
+```
+$ python genIndex.py
+```
+
+## Querying
 ```
 $ python main.py
 ```
