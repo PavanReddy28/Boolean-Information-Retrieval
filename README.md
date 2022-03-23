@@ -27,6 +27,13 @@ $ python genIndex.py
 $ python main.py
 ```
 
+## Documentation Generation
+HTML Generated can be found at [here](API_Documentation).
+```
+$ pip install pdoc
+$ pdoc .\Documentation.py
+```
+
 ## Team
 
 - [Pavan Kumar Reddy Yannam](https://github.com/PavanReddy28/)
