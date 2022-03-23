@@ -28,7 +28,7 @@ $ python main.py
 ```
 
 ## Documentation Generation
-HTML Generated can be found at [here](API_Documentation).
+HTML Generated can be found at [here](API_Documentation.html).
 ```
 $ pip install pdoc
 $ pdoc .\Documentation.py
