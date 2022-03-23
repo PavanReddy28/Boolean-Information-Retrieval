@@ -3,12 +3,17 @@
 ## Stopword Removal
 
 ```
-$ python stopWords.py
+$ python preprocess.py <word1> <word2> <word3>
 ```
 
 ## Normalization - Stemming or Lemmatization
+Stemming
 ```
-$ python normalize.py
+$ python preprocess.py -stem <word1> <word2> <word3>
+```
+Lemmatization
+```
+$ python preprocess.py -lemmatize <word1> <word2> <word3>
 ```
 
 ## Building Index 
