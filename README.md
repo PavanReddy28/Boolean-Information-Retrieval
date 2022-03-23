@@ -36,7 +36,7 @@ search_and_retrieve(query)
 ```
 
 ## Documentation Generation
-HTML Generated can be found at [here](API_Documentation.html).
+HTML Generated can be found at [here](API Documentation.html).
 ```
 $ pip install pdoc
 $ pdoc .\Documentation.py
