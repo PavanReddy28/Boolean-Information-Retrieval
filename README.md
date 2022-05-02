@@ -1,4 +1,5 @@
-# IR-Assignment
+# Boolean-Information-Retrieval
+Partial Fullfillment of CS F469 Information Retrieval
 
 - [Notebook](Final_Notebook.ipynb) - Final Notebook with all the code. RUN THE QUERIES IN THE NOTEBOOK.
 - Documentation.py - Python File version of the Notebook.\
